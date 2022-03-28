@@ -1,0 +1,277 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>projet</title>
+
+    <!-- CSS FILES -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-icons.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link href="css/aos.css" rel="stylesheet">
+
+    <link href="css/templatemo-nomad-force.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/login.css" />
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="login/images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="login/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="login/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="login/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="login/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="login/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="login/css/util.css">
+    <link rel="stylesheet" type="text/css" href="login/css/main.css">
+    <!--===============================================================================================-->
+    <!--
+
+TemplateMo 567 Nomad Force
+
+https://templatemo.com/tm-567-nomad-force
+
+-->
+</head>
+
+<body>
+
+    <main>
+
+        <section class="hero" id="hero">
+            <div class="heroText">
+                <h1 class="text-white mt-5 mb-lg-4" data-aos="zoom-in" data-aos-delay="800">
+                    المدرسة الابتدائية شارع الحبيب بورقيبة بنزرت
+                </h1>
+            </div>
+
+            <div class="videoWrapper">
+                <video autoplay="" loop="" muted="" class="custom-video" poster="videos/792bd98f3e617786c850493560e11c45.jpg">
+                    <source src="videos/814dc43e870597176cad645798825c03.mp4" type="video/mp4">
+
+
+                </video>
+            </div>
+
+            <div class="overlay"></div>
+        </section>
+
+        <nav class="navbar navbar-expand-lg bg-light shadow-lg">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">
+                    <strong>المدرسة الابتدائية شارع الحبيب بورقيبة بنزرت</strong>
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#hero">المدرسة</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#about"> الإدارة</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#portfolio">المدرسون</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <section class="section-padding pb-0" id="about">
+            <div class="container mb-5 pb-lg-5">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="mb-5 text-center" data-aos="fade-up">
+                            فضاء الإدارة</h2>
+                    </div>
+                    <!-- container -->
+                    <div class="limiter">
+                        <div class="container-login100">
+                            <div class="wrap-login100">
+                                <div class="login100-pic js-tilt" data-tilt>
+                                    <img src="images/img-01.png" alt="IMG">
+                                </div>
+
+                                <form class="login100-form validate-form" action="loginadd.php" method="POST">
+                                    <span class="login100-form-title">
+                                        الدّخول
+                                    </span>
+
+                                    <div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
+                                        <input class="input100" type="text" name="email" placeholder="البريد الإلكتروني">
+                                        <span class="focus-input100"></span>
+                                        <span class="symbol-input100">
+                                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                                        </span>
+                                    </div>
+
+                                    <div class="wrap-input100 validate-input" data-validate="Password is required">
+                                        <input class="input100" type="password" name="password" placeholder="كلمة العبور">
+                                        <span class="focus-input100"></span>
+                                        <span class="symbol-input100">
+                                            <i class="fa fa-lock" aria-hidden="true"></i>
+                                        </span>
+                                    </div>
+
+                                    <div class="container-login100-form-btn">
+                                        <button class="login100-form-btn">
+                                            دخول
+                                        </button>
+                                    </div>
+                                    <div class="text-center p-t-12">
+
+                                        <a class="txt2" href="#">
+                                            نسيت كلمة السر؟
+                                        </a>
+                                    </div>
+
+                                    <div class="text-center p-t-136">
+                                        <a class="txt2" href="#">إنشاء حساب
+                                            <i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <section class="section-padding" id="portfolio">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-12">
+                        <h2 class="mb-5 text-center" data-aos="fade-up">
+                            فضاء المعلمون
+                        </h2>
+                    </div>
+                    <!-- container -->
+                    <div class="container">
+                        <section id="content">
+                        <form action="loginprof.php" method="POST">
+                                <h1>الدّخول</h1>
+                                <div>
+                                    <input type="text" placeholder="اسم المستخدم" required="" id="username" name="username" />
+                                </div>
+                                <div>
+                                    <input type="password" placeholder="كلمة العبور" required="" id="password" name="password" />
+                                </div>
+                                <div>
+                                    <input type="submit" value="دخول" />
+                                    <a href="#">نسيت كلمة السر؟</a>
+                                    <a href="compteprof.php">
+                                        إنشاء حساب</a>
+                                </div>
+                                <?php
+                if(isset($_GET['erreur'])){
+                    $err = $_GET['erreur'];
+                    if($err==1 || $err==2)
+                        echo "<p style='color:#ff0000'>Utilisateur ou mot de passe incorrect</p>";
+                }
+                ?>
+                            </form><!-- form -->
+                        </section><!-- content -->
+                    </div><!-- container -->
+                </div>
+            </div>
+            </div>
+            </div>
+        </section>
+
+
+        <section class="google-map">
+            <iframe src="https://www.google.com/maps/place/Av.+Habib+Bourguiba,+Ras+Jebel/@37.2152682,10.1257789,15z/data=!4m5!3m4!1s0x12e2e816033d56c3:0x3ebe1cb9778f2796!8m2!3d37.2224039!4d10.1055671?hl=fr" class="map-iframe" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12">
+                    <h5 class="text-white">
+                        <i class="bi-geo-alt-fill me-2"></i>
+                        Av. Habib Bourguiba, Ras Jebel
+                    </h5>
+
+                    <a href="mailto:info@company.com" class="custom-link mt-3 mb-5">
+                        info@company.com
+                    </a>
+                </div>
+
+                <div class="col-lg-3 col-5 ms-auto">
+                    <ul class="social-icon">
+                        <li><a href="#" class="social-icon-link bi-facebook"></a></li>
+
+                        <li><a href="#" class="social-icon-link bi-twitter"></a></li>
+
+                        <li><a href="#" class="social-icon-link bi-whatsapp"></a></li>
+
+                        <li><a href="#" class="social-icon-link bi-instagram"></a></li>
+
+                        <li><a href="#" class="social-icon-link bi-youtube"></a></li>
+                    </ul>
+                </div>
+
+            </div>
+            </section>
+    </footer>
+
+    <!-- JAVASCRIPT FILES -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/magnific-popup-options.js"></script>
+    <script src="js/scrollspy.min.js"></script>
+    <script src="js/custom.js"></script>
+
+    <!--===============================================================================================-->
+    <script src="login/vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="login/vendor/bootstrap/js/popper.js"></script>
+    <script src="login/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="login/vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="login/vendor/tilt/tilt.jquery.min.js"></script>
+    <script>
+        $('.js-tilt').tilt({
+            scale: 1.1
+        })
+    </script>
+    <!--===============================================================================================-->
+    <script src="login/js/main.js"></script>
+
+</body>
+
+</html>
